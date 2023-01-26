@@ -48,9 +48,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Sinrez)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinrez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-<div id="stat" align="center">
+<div id="stat">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sinrez&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sinrez&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sinrez&theme=github_dark"/>
