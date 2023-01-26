@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m system analyst, beginer solution architect
+- 🔭 I’m system analyst, beginer solution architect, beginer data scientist
 - 🌱 I’m currently learning Python (Pandas, Flask, BS4) and Golang
+- 💬 I’m open to new projects
