@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="google" alt="google" width="40" height="40"/>&nbsp;
 </div>
 
-# My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sinrez&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Sinrez)
