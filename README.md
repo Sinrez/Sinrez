@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m system analyst, beginer solution architect, beginer data scientist
 - 🌱 I’m currently learning Python (Pandas, Flask, BS4) and Golang
 - 💬 I’m open to new projects
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+</div>
