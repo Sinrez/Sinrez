@@ -68,4 +68,4 @@ counting of visitors to this page in this section started from 27.01.2023:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sinrez)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sinrez&theme=vue&custom_title=My%20contribution%20graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sinrez&theme=vue&custom_title=My%20contributions%20graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
