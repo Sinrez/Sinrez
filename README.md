@@ -62,4 +62,12 @@ Here are some ideas to get you started:
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sinrez&theme=github_dark"/>
 </div>
 
+counting of visitors to this page in this section started from 27.01.2023:
+<br>
+<a href="https://info.flagcounter.com/EwYP"><img src="https://s01.flagcounter.com/count2/EwYP/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_39/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
