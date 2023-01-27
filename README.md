@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 </div>
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sinrez&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ![](https://komarev.com/ghpvc/?username=Sinrez)
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sinrez&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div id="stat">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sinrez&theme=github_dark"/>
@@ -65,9 +65,3 @@ Here are some ideas to get you started:
 counting of visitors to this page in this section started from 27.01.2023:
 <br>
 <a href="https://info.flagcounter.com/EwYP"><img src="https://s01.flagcounter.com/count2/EwYP/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_39/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
