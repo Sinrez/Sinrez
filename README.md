@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 🔭 I’m system analyst, beginer solution architect, beginer data scientist
 - 🌱 I’m currently learning Python (Pandas, Flask, BS4) and Golang
 - 💬 I’m open to new projects
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexander-k-b9979aa2/)
 - ---
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
