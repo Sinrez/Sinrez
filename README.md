@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://media.giphy.com/media/PV0TWGh8IWFPKa7wJt/giphy.gif" width="300" height="300"/>
+</div>
+
 - 🔭 I’m system analyst, beginer solution architect, beginer python developer and data scientist.
 - 🌱 I’m currently learning Python (Pandas, Flask, BS4), Golang, System design and English.
 - ⚡ Fun fact: I like reading, running, scintifical, traveling and walking with my dog:)
