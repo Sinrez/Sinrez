@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://media.giphy.com/media/5QMOLk7Yro0ZvarF38/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/5QMOLk7Yro0ZvarF38/giphy.gif" width="400" height="200"/>
 </div>
 
 - 🔭 I’m system analyst, beginer solution architect, beginer python developer and data scientist.
