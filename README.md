@@ -58,6 +58,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" title="jwt" alt="jwt"/>&nbsp;
 <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white" title="visio" alt="visio"/>&nbsp;
 <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge" title="blockchaindotcom" alt="blockchaindotcom"/>&nbsp;
+<img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" title="confluence" alt="confluence"/>&nbsp;
+<img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" title="windows%20terminal" alt="windows%20terminal"/>&nbsp;
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" title="mac%20os" alt="mac%20os"/>&nbsp;
 </div>
 
 ### My Stats :
