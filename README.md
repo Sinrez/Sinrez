@@ -88,5 +88,3 @@ counting of visitors to this page in this section started from 7.03.2023:
 
 
 ![Snake animation](https://github.com/Sinrez/Sinrez/blob/main/github-contribution-grid-snake.svg)
-
-
