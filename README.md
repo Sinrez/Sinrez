@@ -87,7 +87,6 @@ counting of visitors to this page in this section started from 7.03.2023:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sinrez&theme=vue&custom_title=My%20contributions%20graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
 ![Snake animation](https://github.com/Sinrez/Sinrez/blob/main/github-contribution-grid-snake.svg)
 
 
