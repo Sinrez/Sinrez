@@ -80,9 +80,7 @@ counting of visitors to this page in this section started from 7.03.2023:
 <a href="https://info.flagcounter.com/derZ"><img src="https://s01.flagcounter.com/count2/derZ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/"></a>
 -->
 <a href="https://info.flagcounter.com/derZ"><img src="https://s01.flagcounter.com/count2/derZ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" border="0"></a>	
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sinrez)](https://github.com/ryo-ma/github-profile-trophy)
--->
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sinrez&theme=vue&custom_title=My%20contributions%20graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
