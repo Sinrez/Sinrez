@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m system analyst, beginer solution architect, beginer python developer and data scientist.
 - 🌱 I’m currently learning Python (Pandas, Flask, BS4), Golang, System design and English.
-- ⚡ Fun fact: I like reading, running, scintifical, traveling and walking with my dogs:) [![telegram](https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white)](https://t.me/roxy_and_moby)
+- ⚡ Fun fact: I like reading, running, scintifical, traveling and walking with my dogs:)
 -  📫  I’m open to new projects,
 <!-- write to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-k-b9979aa2/), please.
