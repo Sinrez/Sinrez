@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m system analyst, beginer solution architect, beginer python developer and data scientist.
 - 🌱 I’m currently learning Python (Pandas, Flask, BS4), Golang, System design and English.
 - ⚡ Fun fact: I like reading, running, scintifical, traveling and walking with my dogs:)
--  📫  I’m open to new projects, my telegram chanel @nkodw (My channel is about technology, programming, philosophy, theology, finance and everything around)
+-  📫  I’m open to new projects, my telegram chanel [@nkodw](https://t.me/s/nkodw) (My channel is about technology, programming, philosophy, theology, finance and everything around)
 <!-- write to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-k-b9979aa2/), please.
 - ---
